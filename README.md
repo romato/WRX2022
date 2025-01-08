@@ -16,9 +16,13 @@ Building up WRX 2022 GT
 - Perrin Turbo Inlet Hose Long Version Subaru WRX 2022-2024
 - Perrin Pitch Stop Mount
 
-In-cabin parts:
-- Cobb access port mounting accessory (on dash air vent)
-
-Exterior Parts:
+## Exterior Parts:
 - Aeroflow dynamics STI Wing V3
 - 
+
+## Sound-deadning:
+- Cobb access port mounting accessory (on dash air vent)
+
+
+## In-cabin parts:
+- Cobb access port mounting accessory (on dash air vent)
