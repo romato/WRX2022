@@ -13,10 +13,11 @@ Building up WRX 2022 GT
 - Cobb Subaru High Flow Filter WRX 2022-2024
 
 **Others**
-- Perrin Turbo Intake:
-- Pitch Stop Mount:
+- Perrin Turbo Inlet Hose Long Version Subaru WRX 2022-2024
+- Perrin Pitch Stop Mount
 
 In-cabin parts:
+- Cobb access port mounting accessory (on dash air vent)
 
 Exterior Parts:
 - Aeroflow dynamics STI Wing V3
