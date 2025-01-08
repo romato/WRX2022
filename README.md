@@ -4,7 +4,6 @@ Building up WRX 2022 GT
 ## Performance Parts:
 
 **Cobb Titatinium Exhaust:**
-- 
 
 **Cobb Stage 2 Tune Kit:**
 - Cobb SUBARU ACCESSPORT V3 WRX 6MT / CVT 2022-2024
