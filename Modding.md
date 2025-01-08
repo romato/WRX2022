@@ -21,8 +21,12 @@ Building up WRX 2022 GT
 - 
 
 ## Sound-deadning:
-- Cobb access port mounting accessory (on dash air vent)
-
+- Sound-skins 4-doors sound deadning pre-cut kit.
+- Trunk 80mm Siless
+- Under rear seat Siless light
 
 ## In-cabin parts:
 - Cobb access port mounting accessory (on dash air vent)
+- All weather floor mats (Weatherguard).
+- Subaru logo glows (x2 doors)
+- Carbon fiber look dash kit.
