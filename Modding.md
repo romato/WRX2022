@@ -1,17 +1,19 @@
 # WRX 2022 GT Build
 
 ## Performance Parts:
-- Cobb SUBARU ACCESSPORT V3 WRX 6MT / CVT 2022-2024
-- Cobb Titanium Cat-back Exhaust WRX 2022-2024
-- Rae-Motorsports 3" CVT Intermediate Pipe – 2022+ Subaru WRX VB
-- ETS Intake System Wrinkle Black with Airbox Subaru WRX 2022-2025 | 200-60-INT-003
 - Cobb Stage 1 to Stage 1+ CAN Flex Fuel Power Package UPGRADE ONLY Subaru WRX 2022-2025 | SUB0060010-FF-UPGRADE
+- AEM Electronics 340LPH E85-Compatible High Flow In-Tank Fuel Pump
+- ETS Intake System Wrinkle Black with Airbox Subaru WRX 2022-2025 | 200-60-INT-003
 - Cobb Subaru Top Mount Intercooler Kit Silver WRX 2022-2024
 - Cobb Subaru Aluminum Charge Pipe Kit WRX 2022-2024
 - Cobb Subaru Aluminum Intake Tube WRX 2022-2024
 - Perrin Turbo Inlet Hose Long Version Subaru WRX 2022-2024
+- Cobb SUBARU ACCESSPORT V3 WRX 6MT / CVT 2022-2024
+- Cobb Titanium Cat-back Exhaust WRX 2022-2024
+- Rae-Motorsports 3" CVT Intermediate Pipe – 2022+ Subaru WRX VB
 - Perrin Air Oil Separator Subaru WRX 2022-2025 - Neon Yellow | PSP-ENG-611NY
 - Mishimoto 2022+ Subaru WRX Thermostatic Oil Cooler Kit
+- TurboSmart 22+ Diverter Valve
 
 ## Handling/ Wheels:
 - Perrin 20mm Wheel Spacers (One Pair) Subaru STI 2005-2021 / WRX 2015-2024 | PSP-WHL-020BK
@@ -24,6 +26,8 @@
 - EBC Brakes Yellowstuff Brake Pads Front - 2022+ WRX | DP42330R
 - EBC Yellowstuff Rear Brake Pads 2022-2024 WRX AT w/ Electric Parking Brake
 - Brake Caliper Cover for Subaru WRX AOOA
+- Perrin Rear Differential Lockdown for 2015-2025 WRX
+- Perrin Trans Mount Support for CVT PSP-DRV-161 22-23 Subaru WRX
 
 ## Exterior/ Aero Mods:
 - Aeroflow dynamics STI Wing V3
