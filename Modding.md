@@ -2,11 +2,11 @@
 
 ## Performance Parts:
 
-** Exhaust:**
+** Exhaust:
 - Cobb Titanium Cat-back Exhaust WRX 2022-2024
 - Rae-Motorsports 3" CVT Intermediate Pipe – 2022+ Subaru WRX VB
 
-** Performance: **
+** Performance:
 - Cobb SUBARU ACCESSPORT V3 WRX 6MT / CVT 2022-2024
 - ETS Intake System Wrinkle Black with Airbox Subaru WRX 2022-2025 | 200-60-INT-003
 - Cobb Stage 1 to Stage 1+ CAN Flex Fuel Power Package UPGRADE ONLY Subaru WRX 2022-2025 | SUB0060010-FF-UPGRADE
