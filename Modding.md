@@ -30,6 +30,8 @@
 - 2022-2026 Subaru WRX AFD Paint Matched Fender Flares - Ignition Red
 - Noble Gurney Flap Wing with Fins Paint Matched Subaru WRX 2015-2025 / STI 2015-2021
 - 2022-2026 Subaru Wrx Sti Wing Stabilizer
+- Subaru Carbon Fiber Trunk Trim
+- Subaru Body Side Molding Ignition Red
 - Noble Rear Aero Stabilizer Subaru WRX 2022-2025
 - JDMuscle Canards V2 Paint Matched - 2022+ WRX
 - Aeroflow dynamics 2022-2026 Subaru WRX Front Lip V3
@@ -68,6 +70,9 @@
 - AFD Overlays Steering Wheel Emblem Pre-cut Overlay compatible with 2022+ WRX
 - Steering Wheel Bottom Logo Pre-cut Overlay compatible with 2022+ WRX 
 - Pinstripe WRX Logo Dashboard Overlay for Subaru WRX 2022+
+- Subaru Trunk Cargo Tray For Sedan
+- Subaru Side Sill Plates With WRX Logo
+- Genuine Subaru Door Scuff Protectors
 
 ## Sound-deadning:
 - SoundSkins Global | 2022+ Subaru WRX 4-Doors Sound Deadening Vehicle Specific Kit | SSK-WRX4DRV2 | 3 Layers (Acoustic Foam, Foil, Rubber Butyl)
