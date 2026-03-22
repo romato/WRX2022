@@ -1,5 +1,4 @@
-# WRX2022
-**Buidling WRX 2022 GT**
+# WRX 2022 GT Build
 
 ## Performance Parts:
 
