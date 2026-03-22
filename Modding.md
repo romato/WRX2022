@@ -1,13 +1,9 @@
 # WRX 2022 GT Build
 
 ## Performance Parts:
-
-** Exhaust:
+- Cobb SUBARU ACCESSPORT V3 WRX 6MT / CVT 2022-2024
 - Cobb Titanium Cat-back Exhaust WRX 2022-2024
 - Rae-Motorsports 3" CVT Intermediate Pipe – 2022+ Subaru WRX VB
-
-** Performance:
-- Cobb SUBARU ACCESSPORT V3 WRX 6MT / CVT 2022-2024
 - ETS Intake System Wrinkle Black with Airbox Subaru WRX 2022-2025 | 200-60-INT-003
 - Cobb Stage 1 to Stage 1+ CAN Flex Fuel Power Package UPGRADE ONLY Subaru WRX 2022-2025 | SUB0060010-FF-UPGRADE
 - Cobb Subaru Top Mount Intercooler Kit Silver WRX 2022-2024
@@ -15,8 +11,9 @@
 - Cobb Subaru Aluminum Intake Tube WRX 2022-2024
 - Perrin Turbo Inlet Hose Long Version Subaru WRX 2022-2024
 - Perrin Air Oil Separator Subaru WRX 2022-2025 - Neon Yellow | PSP-ENG-611NY
+- Mishimoto 2022+ Subaru WRX Thermostatic Oil Cooler Kit
 
-## Handling/ Wheels
+## Handling/ Wheels:
 - Perrin 20mm Wheel Spacers (One Pair) Subaru STI 2005-2021 / WRX 2015-2024 | PSP-WHL-020BK
 - Perrin Pitch Stop Mount
 - WhiteLine Front and Rear Sway Bar Kit 2022+ WRX (2 Sway Bars, 4 Links)
@@ -26,6 +23,7 @@
 - DBA 4000 Series Slotted Rear Rotor 2016-2021 WRX w/ Eyesight
 - EBC Brakes Yellowstuff Brake Pads Front - 2022+ WRX | DP42330R
 - EBC Yellowstuff Rear Brake Pads 2022-2024 WRX AT w/ Electric Parking Brake
+- Brake Caliper Cover for Subaru WRX AOOA
 
 ## Exterior/ Aero Mods:
 - Aeroflow dynamics STI Wing V3
@@ -62,13 +60,16 @@
 - JDMuscle 2022-23 WRX Rain Guard V1
 - Molded Innovations Gloss Carbon Fiber Rear Knockout Window Cover Pair 2022-2023 WRX
 
-## Sound-deadning:
-- Sound-skins 4-doors sound deadning pre-cut kit.
-- Trunk 80mm Siless
-- Under rear seat Siless light
-
 ## In-cabin parts:
 - Cobb access port mounting accessory (on dash air vent)
 - All weather floor mats (Weatherguard)
 - SubieTrays Center Console Tray 12-Volt Compatible Subaru WRX 2022-2023 6MT
 - Noble Gloss Carbon Fiber Hazard Button Overlay Subaru WRX 2022-2023
+- AFD Overlays Steering Wheel Emblem Pre-cut Overlay compatible with 2022+ WRX
+- Steering Wheel Bottom Logo Pre-cut Overlay compatible with 2022+ WRX 
+- Pinstripe WRX Logo Dashboard Overlay for Subaru WRX 2022+
+
+## Sound-deadning:
+- SoundSkins Global | 2022+ Subaru WRX 4-Doors Sound Deadening Vehicle Specific Kit | SSK-WRX4DRV2 | 3 Layers (Acoustic Foam, Foil, Rubber Butyl)
+- Trunk 80mm Siless
+- Under rear seat Siless light
