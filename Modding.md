@@ -28,6 +28,8 @@
 - Brake Caliper Cover for Subaru WRX AOOA
 - Perrin Rear Differential Lockdown for 2015-2025 WRX
 - Perrin Trans Mount Support for CVT PSP-DRV-161 22-23 Subaru WRX
+- H&R Sport Lowering Springs Subaru WRX 2022-2026 CVT | 54471
+- Whiteline Front Lower Control Arm Upgrade Kit Subaru WRX 2022-2026 | KTA449
 
 ## Exterior/ Aero Mods:
 - Aeroflow dynamics STI Wing V3
